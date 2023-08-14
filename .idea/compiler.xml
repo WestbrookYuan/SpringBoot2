@@ -14,6 +14,7 @@
         <module name="springboot-002-first" />
         <module name="springboot-004-environment" />
         <module name="springboot-001-pre" />
+        <module name="springboot-007-jsp" />
       </profile>
     </annotationProcessing>
   </component>
@@ -26,6 +27,7 @@
       <module name="springboot-004-environment" options="-parameters" />
       <module name="springboot-005-multi-environment" options="-parameters" />
       <module name="springboot-006-custom-configuration" options="-parameters" />
+      <module name="springboot-007-jsp" options="-parameters" />
     </option>
   </component>
 </project>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot-002-second" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springboot-001-pre/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-002-first/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-002-second/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-002-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-003-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-004-environment/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-005-multi-environment/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-006-custom-configuration/pom.xml" />
       </list>
     </option>
   </component>

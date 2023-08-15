@@ -25,5 +25,6 @@
     <file url="file://$PROJECT_DIR$/springboot-013-mapper-scan/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-014-transactional/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-014-transactional/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-015-restful/src/main/java" charset="UTF-8" />
   </component>
 </project>

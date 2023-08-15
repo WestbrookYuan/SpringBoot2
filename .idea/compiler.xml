@@ -15,6 +15,7 @@
         <module name="springboot-010-setvlet" />
         <module name="springboot-009-interceptor" />
         <module name="springboot-003-mvc" />
+        <module name="springboot-015-restful" />
         <module name="springboot-002-maven" />
         <module name="springboot-005-multi-environment" />
         <module name="springboot-002-first" />
@@ -42,6 +43,7 @@
       <module name="springboot-012-mybatis" options="-parameters" />
       <module name="springboot-013-mapper-scan" options="-parameters" />
       <module name="springboot-014-transactional" options="-parameters" />
+      <module name="springboot-015-restful" options="-parameters" />
     </option>
   </component>
 </project>

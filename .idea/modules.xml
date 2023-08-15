@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringBoot2.iml" filepath="$PROJECT_DIR$/SpringBoot2.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-001-pre.iml" filepath="$PROJECT_DIR$/springboot-001-pre.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-007-jsp/springboot-007-jsp.iml" filepath="$PROJECT_DIR$/springboot-007-jsp/springboot-007-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-012-mybatis/springboot-012-mybatis.iml" filepath="$PROJECT_DIR$/springboot-012-mybatis/springboot-012-mybatis.iml" />
     </modules>
   </component>
 </project>

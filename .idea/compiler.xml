@@ -15,6 +15,7 @@
         <module name="springboot-004-environment" />
         <module name="springboot-001-pre" />
         <module name="springboot-008-container" />
+        <module name="springboot-009-interceptor" />
         <module name="springboot-007-jsp" />
       </profile>
     </annotationProcessing>
@@ -30,6 +31,7 @@
       <module name="springboot-006-custom-configuration" options="-parameters" />
       <module name="springboot-007-jsp" options="-parameters" />
       <module name="springboot-008-container" options="-parameters" />
+      <module name="springboot-009-interceptor" options="-parameters" />
     </option>
   </component>
 </project>

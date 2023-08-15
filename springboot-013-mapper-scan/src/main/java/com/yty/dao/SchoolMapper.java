@@ -1,7 +1,6 @@
 package com.yty.dao;
 
 import com.yty.domain.Student;
-import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
 /**
@@ -9,6 +8,6 @@ import org.apache.ibatis.annotations.Param;
  * @version 1.0
  * @since 1.0
  **/
-public interface StudentMapper {
+public interface SchoolMapper {
     Student selectById(@Param("id") Integer id);
 }

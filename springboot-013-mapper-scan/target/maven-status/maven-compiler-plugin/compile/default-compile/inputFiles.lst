@@ -1,0 +1,7 @@
+/Users/yuantengyan/IdeaProjects/SpringBoot2/springboot-013-mapper-scan/src/main/java/com/yty/dao/StudentMapper.java
+/Users/yuantengyan/IdeaProjects/SpringBoot2/springboot-013-mapper-scan/src/main/java/com/yty/service/impl/StudentServiceImpl.java
+/Users/yuantengyan/IdeaProjects/SpringBoot2/springboot-013-mapper-scan/src/main/java/com/yty/controller/StudentController.java
+/Users/yuantengyan/IdeaProjects/SpringBoot2/springboot-013-mapper-scan/src/main/java/com/yty/service/StudentService.java
+/Users/yuantengyan/IdeaProjects/SpringBoot2/springboot-013-mapper-scan/src/main/java/com/yty/dao/SchoolDao.java
+/Users/yuantengyan/IdeaProjects/SpringBoot2/springboot-013-mapper-scan/src/main/java/com/yty/domain/Student.java
+/Users/yuantengyan/IdeaProjects/SpringBoot2/springboot-013-mapper-scan/src/main/java/com/yty/Springboot013MapperScanApplication.java

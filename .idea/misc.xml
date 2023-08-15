@@ -22,6 +22,8 @@
         <option value="$PROJECT_DIR$/springboot-011-filter/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-015-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-012-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-013-mapper-scan/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-014-transactional/pom.xml" />
       </list>
     </option>
   </component>

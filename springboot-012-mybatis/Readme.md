@@ -18,3 +18,14 @@
 缺点：Dao接口多的时候很麻烦
 
 ## @MapperScan注解
+
+用来找到对应包下的Dao接口和mapper文件
+
+## Mapper和Dao分开管理
+
+可以在配置文件中设置
+
+```properties
+mybatis.mapper-locations=classpath:mapper/*.xml
+```
+

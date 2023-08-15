@@ -11,6 +11,7 @@
         <module name="springboot-002-maven" />
         <module name="springboot-005-multi-environment" />
         <module name="springboot-006-custom-configuration" />
+        <module name="springboot-010-setvlet" />
         <module name="springboot-002-first" />
         <module name="springboot-004-environment" />
         <module name="springboot-001-pre" />
@@ -32,6 +33,7 @@
       <module name="springboot-007-jsp" options="-parameters" />
       <module name="springboot-008-container" options="-parameters" />
       <module name="springboot-009-interceptor" options="-parameters" />
+      <module name="springboot-010-setvlet" options="-parameters" />
     </option>
   </component>
 </project>

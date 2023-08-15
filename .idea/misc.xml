@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/springboot-007-jsp/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-008-container/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-009-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-010-setvlet/pom.xml" />
       </list>
     </option>
   </component>

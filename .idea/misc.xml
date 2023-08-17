@@ -25,6 +25,8 @@
         <option value="$PROJECT_DIR$/springboot-013-mapper-scan/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-014-transactional/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-015-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-020-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-016-redis/pom.xml" />
       </list>
     </option>
   </component>
